@@ -1,3 +1,12 @@
+uptime
+
+# Uptime
+
+Learn how to set up this Upptime:
+
+- [Upptime Getting Started](https://upptime.js.org/docs/get-started)
+- [Create personal access token request for organization](https://stackoverflow.com/questions/75044318/create-personal-access-token-request-for-organization)
+
 # [📈 Live Status](https://status.simplelogin.io): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [SimpleLogin](https://simplelogin.io), powered by [Upptime](https://github.com/upptime/upptime).
